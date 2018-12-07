@@ -1,1 +1,1 @@
-# ece287
+# ECE 287 Project
