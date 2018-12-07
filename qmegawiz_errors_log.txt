@@ -1,0 +1,19 @@
+
+
+C:/Users/Linw5/Desktop/vga_with_hw_test_image_v1_1_restored/vga_pll.vhd
+
+Dec 01 06PM:41:38>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/Linw5/Desktop/vga_with_hw_test_image_v1_1_restored/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+C:/Users/lin11/Desktop/vga_with_hw_test_image_v1_1_restored/altpll0.vhd
+
+Dec 07 06PM:32:44>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/lin11/Desktop/vga_with_hw_test_image_v1_1_restored/altpll0.cnxerr.
+
+Can't create the custom megafunction variation file(s)
